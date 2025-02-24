@@ -11,11 +11,11 @@ _Input_: A masked vigilante fights against crime.
 _output_: The output is a DataFrame with series_title and description.
 
           Series_Title                                           Overview
-            The Boondock Saints  Two Irish Catholic brothers become vigilantes ...
-    Batman: Mask of the Phantasm  Batman is wrongly implicated in a series of mu...
-               Edge of Tomorrow  A soldier fighting aliens gets to relive the s...
-    Sunrise: A Song of Two Humans  An allegorical tale about a man fighting the g...
-            Beasts of No Nation  A drama based on the experiences of Agu, a chi...
+            The Boondock Saints  Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.
+    Batman: Mask of the Phantasm  Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin.
+               Edge of Tomorrow  A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
+    Sunrise: A Song of Two Humans  An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.
+            Beasts of No Nation  A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.
 
 
 
