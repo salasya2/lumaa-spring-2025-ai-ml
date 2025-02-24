@@ -1,7 +1,9 @@
 # AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
 
 **dataset:** IMDB_top_1000 dataset, I have imported it from kaggle (https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
+
 **Set-up:** pip install -r requirements.txt
+
 **To run:** python3 simple_recommendation_sys.py
 
 **Results:** 
