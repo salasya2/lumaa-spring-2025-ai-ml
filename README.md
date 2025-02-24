@@ -1,5 +1,26 @@
 # AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
 
+**dataset:** IMDB_top_1000 dataset, I have imported it from kaggle (https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
+**Set-up:** pip install -r requirements.txt
+**To run:** python3 simple_recommendation_sys.py
+
+**Results:** 
+
+_Input_: A masked vigilante fights against crime.
+
+_output_: The output is a DataFrame with series_title and description.
+
+          Series_Title                                           Overview
+0            The Boondock Saints  Two Irish Catholic brothers become vigilantes ...
+1   Batman: Mask of the Phantasm  Batman is wrongly implicated in a series of mu...
+2               Edge of Tomorrow  A soldier fighting aliens gets to relive the s...
+3  Sunrise: A Song of Two Humans  An allegorical tale about a man fighting the g...
+4            Beasts of No Nation  A drama based on the experiences of Agu, a chi...
+
+
+
+
+
 **Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
